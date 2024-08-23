@@ -1,4 +1,4 @@
-# EDA-BANK CUSTOMER CHURN PREDICTION
+ # EDA-BANK CUSTOMER CHURN PREDICTION
 
 #### The problem is to perform Exploratory Data Analysis (EDA) on the bank customer churn prediction dataset from Kaggle.
 
